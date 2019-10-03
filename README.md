@@ -4,7 +4,7 @@
 
 Click in the space on the left to change the emitter position.
 
-Click and drag horizontally to change the value of numbers, and right click to set to 0.
+Click and drag horizontally to change the value of numbers, or right click to set to 0.
 
 Drop an image file onto the window to use it for the particle texture.
 
