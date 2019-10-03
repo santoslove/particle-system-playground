@@ -663,8 +663,6 @@ function love.mousereleased(x, y, mouseButton)
             love.mouse.setPosition(dragging.initialX, dragging.initialY)
         end
         dragging = {}
-    elseif mouseButton == 2 then
-        love.graphics.captureScreenshot('AAAAAAAAAAAAAAA.png')
     end
 end
 
